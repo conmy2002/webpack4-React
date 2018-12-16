@@ -3,7 +3,7 @@
 含有
 
 - babel preset react(jsx 語法)
-- babel class properties
+- babel class properties(class 實例屬性)
 - babel import(antd 按需加載)
 - antd(ui component)
 - less(只處理 antd 的 less)

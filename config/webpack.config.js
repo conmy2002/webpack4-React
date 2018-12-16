@@ -19,6 +19,7 @@ module.exports = {
 			},
 			{
 				test: /\.less$/,
+				include: path.resolve(__dirname, "../node_modules/antd"),
 				use: [
 					{
 						loader: "style-loader"
