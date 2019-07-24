@@ -1,4 +1,4 @@
-## webpack4 + react 開發環境
+# webpack4 + react 開發環境
 
 含有
 
@@ -15,4 +15,4 @@
 
 其他
 
-- 不 preset 為 ES5 語法
+- 不 preset 成 ES5 語法

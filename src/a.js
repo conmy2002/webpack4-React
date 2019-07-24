@@ -32,7 +32,7 @@ class A extends React.Component {
 					}}
 				/>
 				{moment().format("llll")}
-				aaa<Button>bbb</Button>
+				aa<Button>bbb</Button>
 				<Select defaultValue="lucy" style={{ width: 120 }}>
 					<Option value="jack">Jack</Option>
 					<Option value="lucy">Lucy</Option>
