@@ -27,7 +27,7 @@
 		"antd": "^3.20.5",
 		"axios": "^0.19.0",
 		"js-xlsx": "^0.8.22",
-		"jspdf": "^1.5.3",
+		"jspdf": "^2.3.1",
 		"react": "^16.8.6",
 		"react-dom": "^16.8.6",
 		"react-router-dom": "^5.0.1"
